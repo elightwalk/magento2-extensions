@@ -1,4 +1,4 @@
-# Magento 2 Extensions By Elightwalk
+# [Magento 2 Extensions](https://www.elightwalk.com/magento) By Elightwalk
 
 ![Logo](https://www.elightwalk.com/static/version1712319115/frontend/Elightwalk/store/en_US/images/logo.svg)
 
